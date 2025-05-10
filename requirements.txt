@@ -1,0 +1,12 @@
+# torch>=1.13.1
+# diffusers==0.15.0
+# transformers
+# accelerate
+# safetensors
+# peft
+# bitsandbytes
+# datasets
+# opencv-python
+# scipy
+# tqdm
+# xformers==0.0.20

@@ -1,0 +1,12 @@
+{
+  "pretrained_model_name_or_path": "runwayml/stable-diffusion-v1-5",
+  "train_data_dir": "data/escudos",
+  "output_dir": "models/lora_output",
+  "resolution": 512,
+  "train_batch_size": 2,
+  "max_train_steps": 1000,
+  "learning_rate": 1e-4,
+  "lr_scheduler": "constant",
+  "network_dim": 32,
+  "network_alpha": 16
+}
